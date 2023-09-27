@@ -63,7 +63,6 @@ The Chatbot for Customer Support is a Python-based chatbot application designed 
 ## Hint
 
     - Follow the prompts and interact with the chatbot by typing your queries and receiving responses.
-
     - Customize the chatbot's responses and behavior as needed for your specific use case.
 
 
@@ -72,6 +71,6 @@ The Chatbot for Customer Support is a Python-based chatbot application designed 
 Contributions are welcome! If you have ideas for improvements, additional features, or bug fixes, feel free to open an issue or submit a pull request.
 
 
-##License
+## License
 
 This project is licensed under the Apache 2.0 - see the LICENSE file for details.
