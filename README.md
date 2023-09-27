@@ -45,8 +45,7 @@ The Chatbot for Customer Support is a Python-based chatbot application designed 
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/your-username/chatbot-for-customer-support.git
-
+   git clone https://github.com/Malaiappan59/Chatbot-for-Customer-Support.git
 
 2. Navigate to the project directory.
 
